@@ -1,0 +1,14 @@
+{
+  "spotify_db": {
+    "dbname": "spotify",
+    "host": "localhost",
+    "user": "postgres",
+    "port": 5432,
+    "password": "1234",
+    "table_recommendation": "recommendations",
+    "table_tracks": "track_details",
+    "table_albums": "albums",
+    "table_artists": "artists",
+    "table_audio_features": "audio_features"
+  }
+}
